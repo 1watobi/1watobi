@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development and drawing in my free time.
 - 📫 How to reach me:
 - Twitter: https://twitter.com/Iwatobi_Osu
-- Discord: 𝙰𝚣𝚛𝚊𝚎𝒍#4021 (Copy and paste to find me as my name has a different font)
+- Discord: _Iwatobi
 - Website: Coming Soon....
 
 <!---
